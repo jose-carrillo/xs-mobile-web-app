@@ -70,3 +70,10 @@ footer {
     width: 50%; /* 6 columns */
   }
 }
+
+header#header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}

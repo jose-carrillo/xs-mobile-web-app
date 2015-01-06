@@ -2,6 +2,7 @@ $(function() {
 	FastClick.attach(document.body);
 });
 
-$('[data-toggle="offcanvas"]').click(function () {
-	$('.row-offcanvas').toggleClass('active')
+$('#offcanvas').infinitypush({
+	openingspeed: 300,
+	closingspeed: 300
 });

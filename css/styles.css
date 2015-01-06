@@ -38,6 +38,7 @@ html,body {
 
 #offcanvas::-webkit-scrollbar,.main-content::-webkit-scrollbar {
 	display:none;
+	background: #FFFFFF;
 }
 
 #offcanvas {

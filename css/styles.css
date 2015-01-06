@@ -81,6 +81,11 @@ header {
 	z-index: 1;
 }
 
+.standalone {
+	height: 60px !important;
+	padding-top: 20px;
+}
+
 .main-content {
 	padding-top: 40px;
 }
